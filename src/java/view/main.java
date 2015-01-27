@@ -10,8 +10,9 @@ package view;
  *
  * @author Victor
  */
-public class main {
-    
+public class main 
+{
+    //Test
 }
 
 //Commit test
